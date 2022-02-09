@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CitizenV</title>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="styles_chart.css">
+    <link rel="stylesheet" href="chart.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
+    <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+</head>
+
+<body>
+    <div class="container-fluid">
+
+        <div id="mySidebar" class="sidebar">
+            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+            <div class="header-website-citizen">
+                <img src="https://unicalcanxi.com/wp-content/uploads/818.png" alt="" height="120px" width="120px" />
+                <div class="title-logo">CitizenV Việt Nam</div>
+
+            </div>
+            <div class="nav-content">
+                <div class="function_define_id_acc">
+                    <a href="index_define.html">
+                        <i class="fa fa-home"></i>Cấp mã và cấp tài khoản
+                    </a>
+                </div>
+                <div class="function_statistical_citizen">
+                    <a href="index_citizen.html"><i class="fa fa-calculator" aria-hidden="true"></i>Thống kê dân số</a>
+                </div>
+                <div class="function_statistical_define_citizen">
+                    <a href="index_citizen_B.html"><i class="fa fa-calculator" aria-hidden="true"></i>Thống kê và khai báo dân số</a>
+                </div>
+
+                <div class="function_table_statistical">
+                    <i class="fa fa-bar-chart" aria-hidden="true"></i>Bảng thống kê <i class="fa fa-sort-desc" aria-hidden="true"></i>
+                </div>
+                <div class="sub_function">
+                    <div class="statistical_location"><a href="index_chart_address.html"><i class="fa fa-location-arrow" aria-hidden="true"></i>Thống kê theo địa phương</a></div>
+                    <div><a href="index_chart.html"><i class="fa fa-industry" aria-hidden="true"></i>Thống kê theo độ tuổi</a></div>
+                    <div><a href="index_pie.html"><i class="fa fa-pie-chart" aria-hidden="true"></i>Thống kê theo giới tính</a></div>
+                </div>
+                <div class="function_print">
+                    <a href="index_print.html"><i class="fa fa-print" aria-hidden="true"></i>In phiếu điều tra dân số</a>
+                </div>
+                <div class="function_help">
+                    <a href="index_help.html"><i class="fa fa-hand-o-right" aria-hidden="true"></i></i>Hướng dẫn sử dụng phần mềm</a>
+                </div>
+            </div>
+
+        </div>
+
+
+
+        <div id="fullscreen">
+            <button class="openbtn" onclick="openNav()">☰ Open Sidebar</button>
+            <div class="logout">
+                <i class="fa fa-user-o" aria-hidden="true"></i>
+                <p></p>
+
+                <div class="dropdown">
+                    <button class="btn dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      Thêm
+                    </button>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
+                        <a class="change_password" data-toggle="modal" data-target="#model-fix-password" href="">Thay đổi mật khẩu</a>
+                        <br>
+                        <br>
+                        <a onclick="logout()" href="index_login.html">Thoát</a>
+                    </div>
+                </div>
+
+            </div>
+            <div class="container-fluid">
+                <div class="filter">
+                    <div class="filter-group city">
+                        <label>Tỉnh/thành phố</label>
+                        <input type="text" class="form-control">
+
+                    </div>
+                    <div class="filter-group district">
+
+                        <label>Quận/huyện</label>
+                        <input type="text" class="form-control">
+                    </div>
+                    <div class="filter-group ward">
+                        <label>Xã/phường</label>
+                        <input type="text" class="form-control">
+                    </div>
+                    <div class="filter-group village">
+                        <label>Xóm/làng</label>
+                        <input type="text" class="form-control">
+                    </div>
+                    <div class="filter-group">
+                        <button type="button" class="btn btn-primary" id="btn-search"><i class="fa fa-search"></i></button>
+                    </div>
+                </div>
+
+                <div class="container">
+                    <canvas id="myChart"></canvas>
+                </div>
+            </div>
+
+
+        </div>
+
+
+    </div>
+
+    <!-- Chỉnh sửa mật khẩu -->
+    <div class="modal model-fix-password fade .modal-lg  .modal-xl " id="model-fix-password">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <!-- Modal Header -->
+                <div class="modal-header">
+                    <h4 class="modal-title">Thay đổi mật khẩu</h4>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <!-- Modal body -->
+                <div class="modal-body">
+                    <div class="loc">
+                        <label for="">Mật khẩu cũ:</label>
+
+                        <input type="password" value="" class="form-control pass">
+                    </div>
+
+                    <div class="new-loc">
+                        <label for="">Mật khẩu mới:</label>
+
+                        <input type="password" value="" class="form-control new-pass">
+                    </div>
+                    <div class="new-loc-conf">
+                        <label for="">Xác nhận mật khẩu mới:</label>
+
+                        <input type="password" value="" class="form-control new-pass-conf">
+                    </div>
+                    <br>
+                    <button type="submit" onclick="change_password()" class="btn" data-dismiss="modal">Sửa</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script>
+        function openNav() {
+            document.getElementById("mySidebar").style.width = "250px";
+            document.getElementById("fullscreen").style.marginLeft = "250px";
+        }
+
+        function closeNav() {
+            document.getElementById("mySidebar").style.width = "0";
+            document.getElementById("fullscreen").style.marginLeft = "0";
+        }
+    </script>
+
+    <script type="text/javascript" src="index_chart.js"></script>
+</body>
+
+</html>

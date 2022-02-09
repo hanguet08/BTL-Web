@@ -1,0 +1,92 @@
+[{
+  "_id": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "cityID": "01",
+  "cityName": "An Giang",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "cityID": "08",
+  "cityName": "Bình Dương",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c32f61d3652be5e1e4eb40"
+  },
+  "cityID": "09",
+  "cityName": "Bình Định",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c32f6dd3652be5e1e4eb47"
+  },
+  "cityID": "10",
+  "cityName": "Bình Phước",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c32f7ad3652be5e1e4eb4e"
+  },
+  "cityID": "11",
+  "cityName": "Bình Thuận",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c32f88d3652be5e1e4eb55"
+  },
+  "cityID": "12",
+  "cityName": "Cà Mau",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c32f98d3652be5e1e4eb5c"
+  },
+  "cityID": "13",
+  "cityName": "Cao Bằng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c32fa7d3652be5e1e4eb63"
+  },
+  "cityID": "14",
+  "cityName": "Cần Thơ",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c32fb3d3652be5e1e4eb6a"
+  },
+  "cityID": "15",
+  "cityName": "Đà Nẵng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c5989f4567bc6fd520ab03"
+  },
+  "cityID": "40",
+  "cityName": "Hà Nam",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c599f64567bc6fd520ab1c"
+  },
+  "cityID": "31",
+  "cityName": "Hà Nội",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c5cde30e479fb880acdddd"
+  },
+  "cityID": "33",
+  "cityName": "Quảng Ninh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c7424a77a3f9c93cfbb699"
+  },
+  "cityID": "20",
+  "cityName": "Lạng Sơn",
+  "__v": 0
+}]

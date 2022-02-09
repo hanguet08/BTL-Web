@@ -1,0 +1,273 @@
+[{
+  "_id": {
+    "$oid": "61c3372d9f7084546380b4b3"
+  },
+  "villageID": "01010101",
+  "villageName": "Bình Đức 1",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  }
+},{
+  "_id": {
+    "$oid": "61c337369f7084546380b4be"
+  },
+  "villageID": "01010102",
+  "villageName": "Bình Đức 2",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  }
+},{
+  "_id": {
+    "$oid": "61c337409f7084546380b4d4"
+  },
+  "villageID": "01010104",
+  "villageName": "Bình Đức 4",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  }
+},{
+  "_id": {
+    "$oid": "61c337459f7084546380b4df"
+  },
+  "villageID": "01010105",
+  "villageName": "Bình Đức 5",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  }
+},{
+  "_id": {
+    "$oid": "61c3374b9f7084546380b4ea"
+  },
+  "villageID": "01010106",
+  "villageName": "Bình Đức 6",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  }
+},{
+  "_id": {
+    "$oid": "61c337ec9f7084546380b577"
+  },
+  "villageID": "01010201",
+  "villageName": "Bình Khánh 1",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c336489f7084546380b3f1"
+  }
+},{
+  "_id": {
+    "$oid": "61c337f19f7084546380b582"
+  },
+  "villageID": "01010202",
+  "villageName": "Bình Khánh 2",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c336489f7084546380b3f1"
+  }
+},{
+  "_id": {
+    "$oid": "61c337f69f7084546380b58d"
+  },
+  "villageID": "01010203",
+  "villageName": "Bình Khánh 3",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c336489f7084546380b3f1"
+  }
+},{
+  "_id": {
+    "$oid": "61c337fb9f7084546380b598"
+  },
+  "villageID": "01010204",
+  "villageName": "Bình Khánh 4",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c336489f7084546380b3f1"
+  }
+},{
+  "_id": {
+    "$oid": "61c338009f7084546380b5a3"
+  },
+  "villageID": "01010205",
+  "villageName": "Bình Khánh 5",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c336489f7084546380b3f1"
+  }
+},{
+  "_id": {
+    "$oid": "61c338059f7084546380b5ae"
+  },
+  "villageID": "01010206",
+  "villageName": "Bình Khánh 6",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c336489f7084546380b3f1"
+  }
+},{
+  "_id": {
+    "$oid": "61c3380a9f7084546380b5b9"
+  },
+  "villageID": "01010207",
+  "villageName": "Bình Khánh 7",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c336489f7084546380b3f1"
+  }
+},{
+  "_id": {
+    "$oid": "61c75cd0d2cac023c26902b3"
+  },
+  "villageID": "01010103",
+  "villageName": "Bình Đức 3",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  }
+},{
+  "_id": {
+    "$oid": "61c766b55cd7a9ac47ea79bc"
+  },
+  "villageID": "01010301",
+  "villageName": "Đông An",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3365f9f7084546380b400"
+  }
+},{
+  "_id": {
+    "$oid": "61c766f35cd7a9ac47ea79d0"
+  },
+  "villageID": "01010302",
+  "villageName": "Đông Phú",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3365f9f7084546380b400"
+  }
+},{
+  "_id": {
+    "$oid": "61c767555cd7a9ac47ea79e4"
+  },
+  "villageID": "01010304",
+  "villageName": "Đông Thành",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3365f9f7084546380b400"
+  }
+},{
+  "_id": {
+    "$oid": "61c768c65cd7a9ac47ea7a71"
+  },
+  "villageID": "01010303",
+  "villageName": "Đông Hưng",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3365f9f7084546380b400"
+  }
+}]

@@ -1,0 +1,201 @@
+[{
+  "_id": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "districtID": "0101",
+  "districtName": "Long Xuyên",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  }
+},{
+  "_id": {
+    "$oid": "61c330dad3652be5e1e4ec11"
+  },
+  "districtID": "0102",
+  "districtName": "Châu Đốc",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  }
+},{
+  "_id": {
+    "$oid": "61c330e9d3652be5e1e4ec20"
+  },
+  "districtID": "0103",
+  "districtName": "Tân Châu",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  }
+},{
+  "_id": {
+    "$oid": "61c330f3d3652be5e1e4ec2a"
+  },
+  "districtID": "0104",
+  "districtName": "An Phú",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  }
+},{
+  "_id": {
+    "$oid": "61c330fcd3652be5e1e4ec34"
+  },
+  "districtID": "0105",
+  "districtName": "Châu Phú",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  }
+},{
+  "_id": {
+    "$oid": "61c33104d3652be5e1e4ec3e"
+  },
+  "districtID": "0106",
+  "districtName": "Châu Thành",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  }
+},{
+  "_id": {
+    "$oid": "61c3310fd3652be5e1e4ec48"
+  },
+  "districtID": "0107",
+  "districtName": "Chợ Mới",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  }
+},{
+  "_id": {
+    "$oid": "61c3311ed3652be5e1e4ec52"
+  },
+  "districtID": "0108",
+  "districtName": "Phú Tân",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  }
+},{
+  "_id": {
+    "$oid": "61c33129d3652be5e1e4ec5c"
+  },
+  "districtID": "0109",
+  "districtName": "Thoại Sơn",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  }
+},{
+  "_id": {
+    "$oid": "61c33135d3652be5e1e4ec66"
+  },
+  "districtID": "0110",
+  "districtName": "Tịnh Biên",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  }
+},{
+  "_id": {
+    "$oid": "61c33140d3652be5e1e4ec70"
+  },
+  "districtID": "0112",
+  "districtName": "Tri Tôn",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  }
+},{
+  "_id": {
+    "$oid": "61c72fee316083a0f08bd72e"
+  },
+  "districtID": "0801",
+  "districtName": "Thành phố Thủ Dầu Một",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  }
+},{
+  "_id": {
+    "$oid": "61c73008316083a0f08bd737"
+  },
+  "districtID": "0802",
+  "districtName": "Huyện Bàu Bàng",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  }
+},{
+  "_id": {
+    "$oid": "61c731691c7487df6aaac312"
+  },
+  "districtID": "0803",
+  "districtName": "Huyện Dầu Tiếng",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  }
+},{
+  "_id": {
+    "$oid": "61c734ab11ca0cbcf403a327"
+  },
+  "districtID": "0804",
+  "districtName": "Thị Xã Bến Cát",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  }
+},{
+  "_id": {
+    "$oid": "61c734e211ca0cbcf403a339"
+  },
+  "districtID": "0805",
+  "districtName": "Huyện Phú Giáo",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  }
+},{
+  "_id": {
+    "$oid": "61c7350311ca0cbcf403a34b"
+  },
+  "districtID": "0806",
+  "districtName": "Thị Xã Tân Uyên",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  }
+},{
+  "_id": {
+    "$oid": "61c7353711ca0cbcf403a35d"
+  },
+  "districtID": "0807",
+  "districtName": "Thành Phố Dĩ An",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  }
+},{
+  "_id": {
+    "$oid": "61c7357011ca0cbcf403a36f"
+  },
+  "districtID": "0808",
+  "districtName": "Thành Phố Thuận An",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  }
+},{
+  "_id": {
+    "$oid": "61c7359b11ca0cbcf403a381"
+  },
+  "districtID": "0809",
+  "districtName": "Huyện Bắc Tân Uyên",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  }
+}]

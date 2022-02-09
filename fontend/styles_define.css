@@ -1,0 +1,303 @@
+.fullscreen {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100px;
+    color: black;
+    font-size: 30px;
+    padding: 20px 10px;
+    width: 100%;
+}
+
+.nav-content i {
+    color: white;
+    padding-right: 5px;
+}
+
+.fa-sort-desc {
+    padding-left: 40px;
+}
+
+.header-website-citizen {
+    font-size: 20px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 10px;
+    color: mintcream;
+}
+
+.openbtn {
+    border-radius: 20px;
+}
+
+.logout {
+    width: 100%;
+    display: flex;
+    text-align: end;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-content: flex-start;
+    align-items: flex-start;
+    padding-right: 50px;
+}
+
+.logout i {
+    /* padding: 5px; */
+    font-size: 25px;
+    /* padding-right: 10px; */
+    padding-top: 6px;
+}
+
+.logout p {
+    font-weight: 800;
+    /* padding: 5px 10px; */
+    padding: 5px 20px;
+    font-size: 20px;
+}
+
+.logout a {
+    color: black;
+    padding: 5px 0px;
+}
+
+.logout a:hover {
+    text-decoration: none;
+    color: rgb(33, 59, 129);
+}
+
+.logout button {
+    background-color: #a2c2eb;
+}
+
+.logout .dropdown-menu {
+    padding: 15px 5px;
+    top: 0px;
+    left: -25px !important;
+}
+
+
+/* css cho cấp mã cho các địa điểm cấp dưới */
+
+.def-id-loc {
+    background-color: #a2c2eb;
+    border-radius: 10px;
+    padding: 20px 15px;
+    margin: 10px 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+}
+
+.def-id-loc label {
+    width: 120px;
+}
+
+.def-id-loc input {
+    width: 60%;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.def-id-loc button {
+    background-color: #101c4d;
+    color: white;
+}
+
+
+/* đóng css cho cấp mã cho các địa điểm cấp dưới */
+
+
+/* css cho cấp tài khoản cho cấp dưới */
+
+.def-acc {
+    background-color: #a2c2eb;
+    border-radius: 10px;
+    padding: 20px 15px;
+    margin: 10px 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+}
+
+.def-acc label {
+    width: 150px;
+}
+
+.def-acc input,
+.def-acc select {
+    width: 60%;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.def-acc button {
+    background-color: #101c4d;
+    color: white;
+}
+
+
+/* đóng css cho cấp tài khoản cho cấp dưới */
+
+
+/* css cho fix-acc */
+
+.model-fix-acc .code,
+.model-fix-acc .new-code,
+.model-fix-acc .username,
+.model-fix-acc .new-username,
+.model-fix-acc .pass,
+.model-fix-acc .new-pass,
+.model-fix-acc .loc,
+.model-fix-acc .new-loc {
+    width: 48%;
+    display: inline-block;
+}
+
+.model-fix-acc .btn {
+    margin-top: 20px;
+    /* float: right; */
+    margin-right: 30px;
+    background-color: #7386D5;
+    color: white;
+}
+
+.model-fix-acc .to-label {
+    width: 80px;
+}
+
+.model-fix-acc .from-label {
+    margin-top: 20px;
+    width: 80px;
+}
+
+.model-fix-acc .set-time {
+    width: 97%;
+}
+
+
+/* đóng css cho edit */
+
+
+/* css cho bảng thông tin chi tiết */
+
+.header-table-infor {
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.table-infor {
+    background-color: white;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.table-infor tbody label {
+    width: 45px;
+}
+
+
+/* .table-infor tbody input {
+    width: 200px;
+} */
+
+.table-infor td .btn {
+    background-color: transparent;
+}
+
+.delete-info i {
+    color: red;
+    font-size: 25px;
+}
+
+.fix-info i {
+    color: blue;
+    font-size: 25px;
+}
+
+table.dataTable thead .sorting:after,
+table.dataTable thead .sorting:before,
+table.dataTable thead .sorting_asc:after,
+table.dataTable thead .sorting_asc:before,
+table.dataTable thead .sorting_asc_disabled:after,
+table.dataTable thead .sorting_asc_disabled:before,
+table.dataTable thead .sorting_desc:after,
+table.dataTable thead .sorting_desc:before,
+table.dataTable thead .sorting_desc_disabled:after,
+table.dataTable thead .sorting_desc_disabled:before {
+    bottom: .5em;
+}
+
+.complete-0 {
+    color: red;
+}
+
+.complete-1 {
+    color: green;
+}
+
+
+/* đóng css cho bảng thông tin chi tiết */
+
+.sidebar {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidebar a {
+    padding: 8px 8px 8px 28px;
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+    display: block;
+    transition: 0.3s;
+}
+
+.function_table_statistical {
+    color: white;
+    padding: 8px 8px 8px 28px;
+}
+
+.sub_function {
+    padding: 8px 8px 8px 10px;
+}
+
+.sidebar a:hover {
+    color: rgb(0, 0, 0);
+}
+
+.sidebar .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+.openbtn {
+    font-size: 20px;
+    cursor: pointer;
+    background-color: #111;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+}
+
+.openbtn:hover {
+    background-color: #444;
+}
+
+#fullscreen {
+    transition: margin-left .5s;
+    padding: 16px;
+}
+
+.nav-content>div:hover {
+    background-color: #b4b1b1;
+    color: black;
+}

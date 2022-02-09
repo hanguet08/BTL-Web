@@ -1,0 +1,19 @@
+extends layout
+
+block content
+  div.signin
+    div.center
+        h3 SIGN IN
+        if hasErrors
+          each mess in messages
+            span.err= mess
+        form(action="/signin" method="POST")
+            div.field
+                div.label(for="username") Username
+                input(type="text" name="username" placeholder='Username')
+            div.field
+                div.label(for="password") Password
+                input(type="password" name="password" placeholder='Password')
+            button.btn(type='submit') Sign In
+            
+   

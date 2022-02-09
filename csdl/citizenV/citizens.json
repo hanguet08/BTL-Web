@@ -1,0 +1,1120 @@
+[{
+  "_id": {
+    "$oid": "61c3397d9f7084546380b65e"
+  },
+  "citizenID": "187877967",
+  "name": "Lê Thị An",
+  "nativeVillage": "Hoàng Mai, Nghệ An",
+  "dateOfBirth": {
+    "$date": "2021-01-07T00:00:00Z"
+  },
+  "gender": "Nữ",
+  "address": "Bình Đức 1, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "không",
+  "village": {
+    "$oid": "61c3372d9f7084546380b4b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c339839f7084546380b666"
+  },
+  "citizenID": "187877968",
+  "name": "Lê Thị An",
+  "nativeVillage": "Hoàng Mai, Nghệ An",
+  "dateOfBirth": {
+    "$date": "2021-01-08T00:00:00Z"
+  },
+  "gender": "Nữ",
+  "address": "Bình Đức 1, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "không",
+  "village": {
+    "$oid": "61c3372d9f7084546380b4b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c339899f7084546380b66e"
+  },
+  "citizenID": "187877969",
+  "name": "Lê Thị An",
+  "nativeVillage": "Hoàng Mai, Nghệ An",
+  "dateOfBirth": {
+    "$date": "2021-01-09T00:00:00Z"
+  },
+  "gender": "Nữ",
+  "address": "Bình Đức 1, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "không",
+  "village": {
+    "$oid": "61c3372d9f7084546380b4b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c339a29f7084546380b67a"
+  },
+  "citizenID": "187877971",
+  "name": "Lê Bình",
+  "nativeVillage": "Hoàng Mai, Nghệ An",
+  "dateOfBirth": {
+    "$date": "2021-01-09T00:00:00Z"
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 1, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "không",
+  "village": {
+    "$oid": "61c3372d9f7084546380b4b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c339b09f7084546380b682"
+  },
+  "citizenID": "187877972",
+  "name": "Lê Bình 1",
+  "nativeVillage": "Hoàng Mai, Nghệ An",
+  "dateOfBirth": {
+    "$date": "2021-01-09T00:00:00Z"
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 1, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "không",
+  "village": {
+    "$oid": "61c3372d9f7084546380b4b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c339b59f7084546380b68a"
+  },
+  "citizenID": "187877973",
+  "name": "Lê Bình 2",
+  "nativeVillage": "Hoàng Mai, Nghệ An",
+  "dateOfBirth": {
+    "$date": "2021-01-09T00:00:00Z"
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 1, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "không",
+  "village": {
+    "$oid": "61c3372d9f7084546380b4b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c339c09f7084546380b692"
+  },
+  "citizenID": "187877974",
+  "name": "Lê Bình 2",
+  "nativeVillage": "Hoàng Mai, Nghệ An",
+  "dateOfBirth": {
+    "$date": "2016-01-09T00:00:00Z"
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 1, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "không",
+  "village": {
+    "$oid": "61c3372d9f7084546380b4b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c339d09f7084546380b69a"
+  },
+  "citizenID": "187877975",
+  "name": "Lê Bình 3",
+  "nativeVillage": "Hoàng Mai, Nghệ An",
+  "dateOfBirth": {
+    "$date": "2015-01-09T00:00:00Z"
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 1, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "không",
+  "village": {
+    "$oid": "61c3372d9f7084546380b4b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c339e89f7084546380b6a6"
+  },
+  "citizenID": "187877976",
+  "name": "Lê Bình 6",
+  "nativeVillage": "Hoàng Mai, Nghệ An",
+  "dateOfBirth": {
+    "$date": "1999-01-09T00:00:00Z"
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 1, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "không",
+  "village": {
+    "$oid": "61c3372d9f7084546380b4b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c339ed9f7084546380b6ae"
+  },
+  "citizenID": "187877977",
+  "name": "Lê Bình 7",
+  "nativeVillage": "Hoàng Mai, Nghệ An",
+  "dateOfBirth": {
+    "$date": "1999-01-09T00:00:00Z"
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 1, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "không",
+  "village": {
+    "$oid": "61c3372d9f7084546380b4b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c339f29f7084546380b6b6"
+  },
+  "citizenID": "187877978",
+  "name": "Lê Bình 8",
+  "nativeVillage": "Hoàng Mai, Nghệ An",
+  "dateOfBirth": {
+    "$date": "1999-01-09T00:00:00Z"
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 1, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "không",
+  "village": {
+    "$oid": "61c3372d9f7084546380b4b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c339f89f7084546380b6be"
+  },
+  "citizenID": "187877979",
+  "name": "Lê Bình 9",
+  "nativeVillage": "Hoàng Mai, Nghệ An",
+  "dateOfBirth": {
+    "$date": "1999-01-09T00:00:00Z"
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 1, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "không",
+  "village": {
+    "$oid": "61c3372d9f7084546380b4b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c33a0a9f7084546380b6c6"
+  },
+  "citizenID": "187877980",
+  "name": "Lê Bình 11",
+  "nativeVillage": "Hoàng Mai, Nghệ An",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-2870985600000"
+    }
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 1, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "không",
+  "village": {
+    "$oid": "61c3372d9f7084546380b4b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c33a1a9f7084546380b6ce"
+  },
+  "citizenID": "187877982",
+  "name": "Lê Bình 12",
+  "nativeVillage": "Hoàng Mai, Nghệ An",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-62467200000"
+    }
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 1, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "không",
+  "village": {
+    "$oid": "61c3372d9f7084546380b4b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c33a249f7084546380b6d6"
+  },
+  "citizenID": "187877983",
+  "name": "Lê Bình 13",
+  "nativeVillage": "Hoàng Mai, Nghệ An",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-157075200000"
+    }
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 1, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "không",
+  "village": {
+    "$oid": "61c3372d9f7084546380b4b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c33a7b9f7084546380b76b"
+  },
+  "citizenID": "187877988",
+  "name": "Lê Hoàng 2",
+  "nativeVillage": "Hoàng Mai, Nghệ An",
+  "dateOfBirth": {
+    "$date": "1995-01-07T00:00:00Z"
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 2, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "không",
+  "village": {
+    "$oid": "61c337369f7084546380b4be"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c33aab9f7084546380b77f"
+  },
+  "citizenID": "187877868",
+  "name": "Lê Hoàng 11",
+  "nativeVillage": "Hoàng Mai, Nghệ An",
+  "dateOfBirth": {
+    "$date": "2007-01-09T00:00:00Z"
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 2, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "không",
+  "village": {
+    "$oid": "61c337369f7084546380b4be"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c75e65d2cac023c26903a5"
+  },
+  "citizenID": "197977965",
+  "name": "Lê Cường",
+  "nativeVillage": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "dateOfBirth": {
+    "$date": "1976-01-07T00:00:00Z"
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "không",
+  "village": {
+    "$oid": "61c75cd0d2cac023c26902b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c75ea1d2cac023c26903ad"
+  },
+  "citizenID": "197977966",
+  "name": "Lê Thị Hằng",
+  "nativeVillage": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "dateOfBirth": {
+    "$date": "1977-02-07T00:00:00Z"
+  },
+  "gender": "Nữ",
+  "address": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "Nông Dân",
+  "village": {
+    "$oid": "61c75cd0d2cac023c26902b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c75eb1d2cac023c26903b5"
+  },
+  "citizenID": "197977967",
+  "name": "Lê Thị C",
+  "nativeVillage": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "dateOfBirth": {
+    "$date": "1978-02-07T00:00:00Z"
+  },
+  "gender": "Nữ",
+  "address": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "Nông Dân",
+  "village": {
+    "$oid": "61c75cd0d2cac023c26902b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c75ec9d2cac023c26903bd"
+  },
+  "citizenID": "197977961",
+  "name": "Lê Thị B",
+  "nativeVillage": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "dateOfBirth": {
+    "$date": "1985-02-07T00:00:00Z"
+  },
+  "gender": "Nữ",
+  "address": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "Nông Dân",
+  "village": {
+    "$oid": "61c75cd0d2cac023c26902b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c75ee0d2cac023c26903c5"
+  },
+  "citizenID": "197977960",
+  "name": "Lê Thị B",
+  "nativeVillage": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "dateOfBirth": {
+    "$date": "1986-02-07T00:00:00Z"
+  },
+  "gender": "Nữ",
+  "address": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "Giáo Viên",
+  "village": {
+    "$oid": "61c75cd0d2cac023c26902b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c75f0cd2cac023c26903d1"
+  },
+  "citizenID": "197977950",
+  "name": "Lê Thị D",
+  "nativeVillage": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "dateOfBirth": {
+    "$date": "1996-02-07T00:00:00Z"
+  },
+  "gender": "Nữ",
+  "address": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "Kế toán",
+  "village": {
+    "$oid": "61c75cd0d2cac023c26902b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c75f23d2cac023c26903d9"
+  },
+  "citizenID": "197977951",
+  "name": "Lê F",
+  "nativeVillage": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "dateOfBirth": {
+    "$date": "1995-02-07T00:00:00Z"
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "Kế toán",
+  "village": {
+    "$oid": "61c75cd0d2cac023c26902b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c75f3cd2cac023c26903e1"
+  },
+  "citizenID": "197977952",
+  "name": "Nguyễn K",
+  "nativeVillage": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "dateOfBirth": {
+    "$date": "1996-02-07T00:00:00Z"
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "Kế toán",
+  "village": {
+    "$oid": "61c75cd0d2cac023c26902b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c75f45d2cac023c26903e9"
+  },
+  "citizenID": "197977953",
+  "name": "Nguyễn K2",
+  "nativeVillage": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "dateOfBirth": {
+    "$date": "1997-02-07T00:00:00Z"
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "Kế toán",
+  "village": {
+    "$oid": "61c75cd0d2cac023c26902b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c75f4fd2cac023c26903f1"
+  },
+  "citizenID": "197977954",
+  "name": "Nguyễn K4",
+  "nativeVillage": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "dateOfBirth": {
+    "$date": "1999-02-07T00:00:00Z"
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "Kế toán",
+  "village": {
+    "$oid": "61c75cd0d2cac023c26902b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c75f62d2cac023c26903fd"
+  },
+  "citizenID": "197977955",
+  "name": "Nguyễn K5",
+  "nativeVillage": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "dateOfBirth": {
+    "$date": "2000-02-07T00:00:00Z"
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "Kế toán",
+  "village": {
+    "$oid": "61c75cd0d2cac023c26902b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c75f6dd2cac023c2690405"
+  },
+  "citizenID": "197977956",
+  "name": "Nguyễn K6",
+  "nativeVillage": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "dateOfBirth": {
+    "$date": "2001-02-07T00:00:00Z"
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "Kế toán",
+  "village": {
+    "$oid": "61c75cd0d2cac023c26902b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c75f80d2cac023c269040d"
+  },
+  "citizenID": "197977957",
+  "name": "Nguyễn L",
+  "nativeVillage": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "dateOfBirth": {
+    "$date": "2002-02-07T00:00:00Z"
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 3, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "Kế toán",
+  "village": {
+    "$oid": "61c75cd0d2cac023c26902b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c76339d2cac023c2690692"
+  },
+  "citizenID": "197977940",
+  "name": "Nguyễn M",
+  "nativeVillage": "Bình Đức 4, phường Bình Đức, Long Xuyên, An Giang",
+  "dateOfBirth": {
+    "$date": "2002-02-07T00:00:00Z"
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 4, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "Sinh Viên",
+  "village": {
+    "$oid": "61c337409f7084546380b4d4"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c76345d2cac023c269069a"
+  },
+  "citizenID": "197977941",
+  "name": "Nguyễn N",
+  "nativeVillage": "Bình Đức 4, phường Bình Đức, Long Xuyên, An Giang",
+  "dateOfBirth": {
+    "$date": "2001-02-07T00:00:00Z"
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 4, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "Sinh Viên",
+  "village": {
+    "$oid": "61c337409f7084546380b4d4"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c76366d2cac023c26906a6"
+  },
+  "citizenID": "197977942",
+  "name": "Nguyễn N1",
+  "nativeVillage": "Bình Đức 4, phường Bình Đức, Long Xuyên, An Giang",
+  "dateOfBirth": {
+    "$date": "2004-02-07T00:00:00Z"
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 4, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "Học Sinh",
+  "village": {
+    "$oid": "61c337409f7084546380b4d4"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c76373d2cac023c26906ae"
+  },
+  "citizenID": "197977943",
+  "name": "Nguyễn N3",
+  "nativeVillage": "Bình Đức 4, phường Bình Đức, Long Xuyên, An Giang",
+  "dateOfBirth": {
+    "$date": "2005-02-07T00:00:00Z"
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 4, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "Học Sinh",
+  "village": {
+    "$oid": "61c337409f7084546380b4d4"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c76399d2cac023c26906b6"
+  },
+  "citizenID": "197977944",
+  "name": "Nguyễn N5",
+  "nativeVillage": "Bình Đức 4, phường Bình Đức, Long Xuyên, An Giang",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-3594326400000"
+    }
+  },
+  "gender": "Nam",
+  "address": "Bình Đức 4, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "Công Nhân",
+  "village": {
+    "$oid": "61c337409f7084546380b4d4"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c763add2cac023c26906be"
+  },
+  "citizenID": "197977945",
+  "name": "Nguyễn N6",
+  "nativeVillage": "Bình Đức 4, phường Bình Đức, Long Xuyên, An Giang",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-2963174400000"
+    }
+  },
+  "gender": "Nữ",
+  "address": "Bình Đức 4, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "Công Nhân",
+  "village": {
+    "$oid": "61c337409f7084546380b4d4"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c763bcd2cac023c26906c6"
+  },
+  "citizenID": "197977946",
+  "name": "Nguyễn N6",
+  "nativeVillage": "Bình Đức 4, phường Bình Đức, Long Xuyên, An Giang",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-2332022400000"
+    }
+  },
+  "gender": "Nữ",
+  "address": "Bình Đức 4, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "Công Nhân",
+  "village": {
+    "$oid": "61c337409f7084546380b4d4"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c763d4d2cac023c26906d2"
+  },
+  "citizenID": "197977947",
+  "name": "Nguyễn N9",
+  "nativeVillage": "Bình Đức 4, phường Bình Đức, Long Xuyên, An Giang",
+  "dateOfBirth": {
+    "$date": "1997-02-07T00:00:00Z"
+  },
+  "gender": "Nữ",
+  "address": "Bình Đức 4, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "Công Nhân",
+  "village": {
+    "$oid": "61c337409f7084546380b4d4"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c763e1d2cac023c26906da"
+  },
+  "citizenID": "197977948",
+  "name": "Nguyễn N9",
+  "nativeVillage": "Bình Đức 4, phường Bình Đức, Long Xuyên, An Giang",
+  "dateOfBirth": {
+    "$date": "1995-02-07T00:00:00Z"
+  },
+  "gender": "Nữ",
+  "address": "Bình Đức 4, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "Công Nhân",
+  "village": {
+    "$oid": "61c337409f7084546380b4d4"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c763efd2cac023c26906e2"
+  },
+  "citizenID": "197977949",
+  "name": "Nguyễn N9",
+  "nativeVillage": "Bình Đức 4, phường Bình Đức, Long Xuyên, An Giang",
+  "dateOfBirth": {
+    "$date": "1994-02-07T00:00:00Z"
+  },
+  "gender": "Nữ",
+  "address": "Bình Đức 4, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "Công Nhân",
+  "village": {
+    "$oid": "61c337409f7084546380b4d4"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c76408d2cac023c26906ee"
+  },
+  "citizenID": "197977850",
+  "name": "Nguyễn N10",
+  "nativeVillage": "Bình Đức 4, phường Bình Đức, Long Xuyên, An Giang",
+  "dateOfBirth": {
+    "$date": "1984-02-07T00:00:00Z"
+  },
+  "gender": "Nữ",
+  "address": "Bình Đức 4, phường Bình Đức, Long Xuyên, An Giang",
+  "religion": "không",
+  "job": "Công Nhân",
+  "village": {
+    "$oid": "61c337409f7084546380b4d4"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+}]

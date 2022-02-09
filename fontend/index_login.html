@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CitizenV</title>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="styles_login.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css">
+    <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+
+</head>
+
+<body>
+    <section class="login-block">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 login-sec">
+                    <h2 class="text-center">Đăng nhập tại đây</h2>
+                    <form class="login-form">
+                        <div class="form-group username">
+                            <label for="exampleInputEmail1" class="text-uppercase">Tên đăng nhập</label>
+                            <input type="text" class="form-control" placeholder="" required>
+                            <div class="valid-feedback">
+                                Tốt!
+                            </div>
+                            <div class="invalid-feedback">
+                                Vui lòng điền tên đăng nhập!
+                            </div>
+                        </div>
+                        <div class="form-group password" id="show_hide_password">
+                            <label for="exampleInputPassword1" class="text-uppercase">Mật khẩu</label>
+                            <input type="password" class="form-control" placeholder="" required>
+                            <div class="input-group-addon">Hiện mật khẩu
+                                <a href=""><i class="fa fa-eye-slash" aria-hidden="true"></i></a>
+                            </div>
+                            <div class="valid-feedback">
+                                Tốt
+                            </div>
+                            <div class="invalid-feedback">
+                                Mật khẩu ít nhất 8 ký tự
+                            </div>
+                        </div>
+
+
+                        <div class="form-check">
+                            <label class="form-check-label">
+                                <input type="checkbox" class="form-check-input">
+                                <small>Remember Me</small>
+                            </label>
+
+                        </div>
+
+                    </form>
+                    <button type="submit" class="btn btn-login float-right">Đăng nhập</button>
+                </div>
+                <div class="col-md-8 banner-sec">
+                    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                        <ol class="carousel-indicators">
+                            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                        </ol>
+                        <div class="carousel-inner" role="listbox">
+                            <div class="carousel-item active">
+                                <img class="d-block img-fluid" src="https://1.bp.blogspot.com/-BrPwCb8hzI8/YRjnNYP1iEI/AAAAAAAAT3Q/mhSxc0WaUDIJxwY_uk-8NTFhbi37JsRLACLcBGAsYHQ/s1024/bi%25E1%25BB%2583u-%25C4%2591%25E1%25BB%2593-t%25E1%25BB%2591c-%25C4%2591%25E1%25BB%2599-gia-t%25C4%2583ng-d%25C3%25A2n-s%25E1%25BB%2591-vi%25E1%25BB%2587t-nam-1.png">
+                                <!-- <div class="carousel-caption d-none d-md-block">
+                                    <div class="banner-text">
+                                        <h2>Điều tra dân số Việt Nam</h2>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
+                                    </div>
+                                </div> -->
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block img-fluid" src="https://vietnamembassy-slovakia.vn/wp-content/uploads/2019/03/bi%E1%BB%83u-%C4%91%E1%BB%93-d%C3%A2n-s%E1%BB%91-vi%E1%BB%87t-nam-1.png" alt="First slide">
+                                <!-- <div class="carousel-caption d-none d-md-block">
+                                    <div class="banner-text">
+                                        <h2>Điều tra dân số Việt Nam</h2>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
+                                    </div>
+                                </div> -->
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block img-fluid" src="https://1.bp.blogspot.com/-BrPwCb8hzI8/YRjnNYP1iEI/AAAAAAAAT3Q/mhSxc0WaUDIJxwY_uk-8NTFhbi37JsRLACLcBGAsYHQ/s1024/bi%25E1%25BB%2583u-%25C4%2591%25E1%25BB%2593-t%25E1%25BB%2591c-%25C4%2591%25E1%25BB%2599-gia-t%25C4%2583ng-d%25C3%25A2n-s%25E1%25BB%2591-vi%25E1%25BB%2587t-nam-1.png"
+                                    alt="First slide">
+                                <!-- <div class="carousel-caption d-none d-md-block">
+                                    <div class="banner-text">
+                                        <h2>Điều tra dân số Việt Nam</h2>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
+                                    </div>
+                                </div> -->
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+    </section>
+
+
+    <script type="text/javascript" src="index_login.js"></script>
+</body>
+
+</html>

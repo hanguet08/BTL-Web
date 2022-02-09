@@ -1,0 +1,287 @@
+[{
+  "_id": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "wardID": "010101",
+  "wardName": "Phường Bình Đức",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  }
+},{
+  "_id": {
+    "$oid": "61c336489f7084546380b3f1"
+  },
+  "wardID": "010102",
+  "wardName": "Phường Bình Khanh",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  }
+},{
+  "_id": {
+    "$oid": "61c3365f9f7084546380b400"
+  },
+  "wardID": "010103",
+  "wardName": "Phường Đông Xuyên",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  }
+},{
+  "_id": {
+    "$oid": "61c336759f7084546380b40a"
+  },
+  "wardID": "010104",
+  "wardName": "Phường Mỹ Bình",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  }
+},{
+  "_id": {
+    "$oid": "61c336889f7084546380b414"
+  },
+  "wardID": "010105",
+  "wardName": "Phường Mỹ Hòa",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  }
+},{
+  "_id": {
+    "$oid": "61c3369c9f7084546380b423"
+  },
+  "wardID": "010106",
+  "wardName": "Phường Mỹ Long",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  }
+},{
+  "_id": {
+    "$oid": "61c336b29f7084546380b432"
+  },
+  "wardID": "010107",
+  "wardName": "Phường Mỹ Phước",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  }
+},{
+  "_id": {
+    "$oid": "61c738a0cf390e97f6bea0ea"
+  },
+  "wardID": "080102",
+  "wardName": "Phường Phú Hòa",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c72fee316083a0f08bd72e"
+  }
+},{
+  "_id": {
+    "$oid": "61c7390bcf390e97f6bea15b"
+  },
+  "wardID": "080101",
+  "wardName": "Phường Hiệp Thành",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c72fee316083a0f08bd72e"
+  }
+},{
+  "_id": {
+    "$oid": "61c7392fcf390e97f6bea17a"
+  },
+  "wardID": "080103",
+  "wardName": "Phường Phú Cường",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c72fee316083a0f08bd72e"
+  }
+},{
+  "_id": {
+    "$oid": "61c7398dcf390e97f6bea19e"
+  },
+  "wardID": "080104",
+  "wardName": "Phường Phú Tân",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c72fee316083a0f08bd72e"
+  }
+},{
+  "_id": {
+    "$oid": "61c73c97e831acc35fc94164"
+  },
+  "wardID": "080201",
+  "wardName": "Xã Trừ Văn Thố",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c73008316083a0f08bd737"
+  }
+},{
+  "_id": {
+    "$oid": "61c73d11e831acc35fc94181"
+  },
+  "wardID": "080202",
+  "wardName": "Xã Cây Trường Ii",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c73008316083a0f08bd737"
+  }
+},{
+  "_id": {
+    "$oid": "61c73d3de831acc35fc94194"
+  },
+  "wardID": "080203",
+  "wardName": "Thị Trấn Lai Uyên",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c73008316083a0f08bd737"
+  }
+},{
+  "_id": {
+    "$oid": "61c73d5ce831acc35fc941a7"
+  },
+  "wardID": "080204",
+  "wardName": "Xã Tân Hưng",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c73008316083a0f08bd737"
+  }
+},{
+  "_id": {
+    "$oid": "61c73d80e831acc35fc941ba"
+  },
+  "wardID": "080205",
+  "wardName": "Xã Long Nguyên",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c73008316083a0f08bd737"
+  }
+},{
+  "_id": {
+    "$oid": "61c73ddbe831acc35fc94222"
+  },
+  "wardID": "080301",
+  "wardName": "Xã Minh Hoà",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c731691c7487df6aaac312"
+  }
+},{
+  "_id": {
+    "$oid": "61c73e05e831acc35fc94235"
+  },
+  "wardID": "080302",
+  "wardName": "Xã Minh Thạnh",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c731691c7487df6aaac312"
+  }
+},{
+  "_id": {
+    "$oid": "61c73e25e831acc35fc94248"
+  },
+  "wardID": "080303",
+  "wardName": "Xã Minh Tân",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c731691c7487df6aaac312"
+  }
+},{
+  "_id": {
+    "$oid": "61c73e44e831acc35fc9425b"
+  },
+  "wardID": "080304",
+  "wardName": "Xã Định An",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c731691c7487df6aaac312"
+  }
+},{
+  "_id": {
+    "$oid": "61c73e61e831acc35fc9426e"
+  },
+  "wardID": "080305",
+  "wardName": "Xã Long Hoà",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c731691c7487df6aaac312"
+  }
+},{
+  "_id": {
+    "$oid": "61c73f7877a3f9c93cfbb49a"
+  },
+  "wardID": "080402",
+  "wardName": "Phường Chánh Phú Hòa",
+  "__v": 0,
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c734ab11ca0cbcf403a327"
+  }
+}]

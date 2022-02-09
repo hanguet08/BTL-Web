@@ -1,0 +1,2070 @@
+[{
+  "_id": {
+    "$oid": "61c3300ad3652be5e1e4eb72"
+  },
+  "username": "01",
+  "password": "$2a$08$rXuKgFHXctiMFWeVs.nOoOGN3KxWWNryBT499vuC3OX5Nn7ajZbdq",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeab"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T07:14:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-31T07:14:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "an",
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c33031d3652be5e1e4ebaa"
+  },
+  "username": "08",
+  "password": "$2a$08$JxHyJ2SV29Y5I3djEalXdeUjLKvEsE/TN70Utt25mwXnGvfxg0mrO",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeab"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "an",
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c33035d3652be5e1e4ebb2"
+  },
+  "username": "09",
+  "password": "$2a$08$sBHrV2TPm2ahG0a2Cmpz/.IJA8xZbHT.sOlb4ZoJutef/t7khYIWa",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeab"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "an",
+  "city": {
+    "$oid": "61c32f61d3652be5e1e4eb40"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c33039d3652be5e1e4ebba"
+  },
+  "username": "10",
+  "password": "$2a$08$D28Gr7YzZEYsVSosHokryux6kB5VFnz3tlevDu4jVDpoBog0z9Y3W",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeab"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "an",
+  "city": {
+    "$oid": "61c32f6dd3652be5e1e4eb47"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c3303bd3652be5e1e4ebc2"
+  },
+  "username": "11",
+  "password": "$2a$08$413v.2cRPTauevCtYEdtx.4WNM2sVKW0ocWVl0CDvAqrQ4GIj53ey",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeab"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "an",
+  "city": {
+    "$oid": "61c32f7ad3652be5e1e4eb4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c3303ed3652be5e1e4ebca"
+  },
+  "username": "12",
+  "password": "$2a$08$32TAeBfpUHzrn0IhK6Q7SODk5J6.URJvd3Aor9lA63BAcHEGgrBQa",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeab"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "an",
+  "city": {
+    "$oid": "61c32f88d3652be5e1e4eb55"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c33042d3652be5e1e4ebd2"
+  },
+  "username": "13",
+  "password": "$2a$08$gtPoNXI9EZaZq1gx6XMuw.gXkSpqNEl5NYHleky7/86ytEodHZnGK",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeab"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "an",
+  "city": {
+    "$oid": "61c32f98d3652be5e1e4eb5c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c33046d3652be5e1e4ebda"
+  },
+  "username": "14",
+  "password": "$2a$08$fPq2xwWYl5G3cVRFwaBox.7YqSQwSj6nH79p5DqMRzepC.bNwZsca",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeab"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "an",
+  "city": {
+    "$oid": "61c32fa7d3652be5e1e4eb63"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c33049d3652be5e1e4ebe2"
+  },
+  "username": "15",
+  "password": "$2a$08$tVO3fI224SW7Zbdrmgj2tOyiAf3bTKABJI7hMIcC04gE3p.4pWiJO",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeab"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "an",
+  "city": {
+    "$oid": "61c32fb3d3652be5e1e4eb6a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c33160d3652be5e1e4ec78"
+  },
+  "username": "0101",
+  "password": "$2a$08$Ekpo40K75odKW7gst/Kha.spBCXGxGyha2FI/3IQkSGGfygTygU7y",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeac"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "01",
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c33167d3652be5e1e4ec81"
+  },
+  "username": "0102",
+  "password": "$2a$08$ubXAhW.CrPY7myNr6V7L2O9m1EvX7USrmumSkLgGuO9EQygzUAxZu",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeac"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "01",
+  "district": {
+    "$oid": "61c330dad3652be5e1e4ec11"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c3316bd3652be5e1e4ec8a"
+  },
+  "username": "0103",
+  "password": "$2a$08$6FLYQKCbPxCrRRPzVddYqOd3dodaULKkUiWCakthENdlLnxpJ2fIG",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeac"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "01",
+  "district": {
+    "$oid": "61c330e9d3652be5e1e4ec20"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c3316ed3652be5e1e4ec93"
+  },
+  "username": "0104",
+  "password": "$2a$08$tY6DX.82I8MxOxbX8.ydvOXd3Z0mNR84REE9T3arEPpi0hqE.oj0O",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeac"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "01",
+  "district": {
+    "$oid": "61c330f3d3652be5e1e4ec2a"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c33170d3652be5e1e4ec9c"
+  },
+  "username": "0105",
+  "password": "$2a$08$yXrEzirr5/kzIoubqeribeaOgKhIQrDOl6Cdkt4cO8n5kLq8zNR6.",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeac"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "01",
+  "district": {
+    "$oid": "61c330fcd3652be5e1e4ec34"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c33174d3652be5e1e4eca5"
+  },
+  "username": "0106",
+  "password": "$2a$08$LLwPyg67AaeZVIGJFRfvA.J/M8yVlWPC7MSn4nsymDCkDkykS7DEy",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeac"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "01",
+  "district": {
+    "$oid": "61c33104d3652be5e1e4ec3e"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c3317ed3652be5e1e4ecb6"
+  },
+  "username": "0107",
+  "password": "$2a$08$SYuCSrGCf3ahqX/sDy52yuiIUkII8HSuSrdD8v9RRWfCoOIoETXVa",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeac"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "01",
+  "district": {
+    "$oid": "61c3310fd3652be5e1e4ec48"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c33182d3652be5e1e4ecbf"
+  },
+  "username": "0108",
+  "password": "$2a$08$9jO6OkRa1lee63lYUZQIbOm7FKUvwOWfYEFYOJVeJSkaHGD2JOk0S",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeac"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "01",
+  "district": {
+    "$oid": "61c3311ed3652be5e1e4ec52"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c33185d3652be5e1e4ecc8"
+  },
+  "username": "0109",
+  "password": "$2a$08$IBtKum.Fcqztj8jhuNi58eBLxNgbkeXdEVO6esBXx5AXJytqy1x2y",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeac"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "01",
+  "district": {
+    "$oid": "61c33129d3652be5e1e4ec5c"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c33188d3652be5e1e4ecd1"
+  },
+  "username": "0110",
+  "password": "$2a$08$5aJpfnewHKOQygyEwVjQhOJ.YWRwp1xZXBOAB4qIWDIEnCcHmjP3q",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeac"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "01",
+  "district": {
+    "$oid": "61c33135d3652be5e1e4ec66"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c3318bd3652be5e1e4ecda"
+  },
+  "username": "0112",
+  "password": "$2a$08$jvKUqSiYhzcpxHNMJaV8N.GMFSsYGcOXZyawj8EIqoJ3.eDDEq5RG",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeac"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "01",
+  "district": {
+    "$oid": "61c33140d3652be5e1e4ec70"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c336c09f7084546380b43b"
+  },
+  "username": "010101",
+  "password": "$2a$08$hOs37iDlRiUh5pQTA5dTNudrzPR3w0ifm1iYPIIls60YGNXRFl0by",
+  "roles": [
+    {
+      "$oid": "61a9063de80dd4079400eb96"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 1,
+  "active": 1,
+  "createBy": "0101",
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c336c59f7084546380b444"
+  },
+  "username": "010102",
+  "password": "$2a$08$dOASBZq1C3HCREOh0KT7cO/YbdI1NlVr0lb5WL.FTIyLYEQ0RoqqO",
+  "roles": [
+    {
+      "$oid": "61a9063de80dd4079400eb96"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "0101",
+  "ward": {
+    "$oid": "61c336489f7084546380b3f1"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c336ca9f7084546380b44d"
+  },
+  "username": "010103",
+  "password": "$2a$08$AT/PYGIICZf/fStu0cxVZe8agNrCJoVr8e6bYH3H5mQCHmK3G7Bsy",
+  "roles": [
+    {
+      "$oid": "61a9063de80dd4079400eb96"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 1,
+  "active": 1,
+  "createBy": "0101",
+  "ward": {
+    "$oid": "61c3365f9f7084546380b400"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c336ce9f7084546380b456"
+  },
+  "username": "010104",
+  "password": "$2a$08$eFmCcbG.LYTA3eb7ct342eRR8FAVVX.7FA51raSi7AjKdvK6OS8HS",
+  "roles": [
+    {
+      "$oid": "61a9063de80dd4079400eb96"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "0101",
+  "ward": {
+    "$oid": "61c336759f7084546380b40a"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c336d29f7084546380b45f"
+  },
+  "username": "010105",
+  "password": "$2a$08$bhxbBLyN07kVJhbbxdQmjOOaWsdnQoyNyLfWo6Jrj1vcN.a4aGm82",
+  "roles": [
+    {
+      "$oid": "61a9063de80dd4079400eb96"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "0101",
+  "ward": {
+    "$oid": "61c336889f7084546380b414"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c336d79f7084546380b468"
+  },
+  "username": "010106",
+  "password": "$2a$08$4DHUJPJ99LRch3uB5zJF3u4yKe5K1wjKXTQ.cekRxPM4Dh3awelrO",
+  "roles": [
+    {
+      "$oid": "61a9063de80dd4079400eb96"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "0101",
+  "ward": {
+    "$oid": "61c3369c9f7084546380b423"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c336db9f7084546380b471"
+  },
+  "username": "010107",
+  "password": "$2a$08$cXYSXh2thtz65GNl.4Tp1u1tQVt5Filo1eyP7bKQy1po.y0UFWrGO",
+  "roles": [
+    {
+      "$oid": "61a9063de80dd4079400eb96"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "0101",
+  "ward": {
+    "$oid": "61c336b29f7084546380b432"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c3375f9f7084546380b4f3"
+  },
+  "username": "01010101",
+  "password": "$2a$08$Gx.FvZ6sd/9da4JCRLVXyewspIP80SAEwUbaD0dqVrUZwNq0u5nX.",
+  "roles": [
+    {
+      "$oid": "61a90673e80dd4079400eb97"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "active": 1,
+  "createBy": "010101",
+  "village": {
+    "$oid": "61c3372d9f7084546380b4b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c337639f7084546380b4fc"
+  },
+  "username": "01010102",
+  "password": "$2a$08$J2HNgPnDkd7AXFUdSfyoMuizkHYuXT3Gox0r4MsAwien5rwAGD6ya",
+  "roles": [
+    {
+      "$oid": "61a90673e80dd4079400eb97"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "active": 1,
+  "createBy": "010101",
+  "village": {
+    "$oid": "61c337369f7084546380b4be"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c337689f7084546380b50e"
+  },
+  "username": "01010104",
+  "password": "$2a$08$Y.fORl6UM0XNqeKFQNxvu.NNtYfH5itojVpoq6DvLB0IY392BDUEK",
+  "roles": [
+    {
+      "$oid": "61a90673e80dd4079400eb97"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "active": 1,
+  "createBy": "010101",
+  "village": {
+    "$oid": "61c337409f7084546380b4d4"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c3376c9f7084546380b517"
+  },
+  "username": "01010105",
+  "password": "$2a$08$NwnDm.oT7VnagPGVYw.3Bun2RAd1lF0YJkjw4WGDXKcdiVghlL9my",
+  "roles": [
+    {
+      "$oid": "61a90673e80dd4079400eb97"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "active": 1,
+  "createBy": "010101",
+  "village": {
+    "$oid": "61c337459f7084546380b4df"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c3376f9f7084546380b520"
+  },
+  "username": "01010106",
+  "password": "$2a$08$WZ.nMCY5eRNITs14nvcv5.meEHZeE3tBroKruCZ7444ljr2Botcoi",
+  "roles": [
+    {
+      "$oid": "61a90673e80dd4079400eb97"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "active": 1,
+  "createBy": "010101",
+  "village": {
+    "$oid": "61c3374b9f7084546380b4ea"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c3381b9f7084546380b5c2"
+  },
+  "username": "01010201",
+  "password": "$2a$08$CoNqzx8X3XZKQI1FEvpQluumaFqMNseFTCtlxMTn2w15aMMR2gC4S",
+  "roles": [
+    {
+      "$oid": "61a90673e80dd4079400eb97"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "active": 1,
+  "createBy": "010102",
+  "village": {
+    "$oid": "61c337ec9f7084546380b577"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c336489f7084546380b3f1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c3381f9f7084546380b5cb"
+  },
+  "username": "01010202",
+  "password": "$2a$08$1bz1MWvcp0leVZv6Bgcl3Oe9igYdAkUbLwQYIV5X3UG0nIacptSza",
+  "roles": [
+    {
+      "$oid": "61a90673e80dd4079400eb97"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "active": 1,
+  "createBy": "010102",
+  "village": {
+    "$oid": "61c337f19f7084546380b582"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c336489f7084546380b3f1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c338219f7084546380b5d4"
+  },
+  "username": "01010203",
+  "password": "$2a$08$Ow0BSLpTCp/SYNTHcPOQye/ByE3qgRudptU9ZOE40LXcm4hG6aFcq",
+  "roles": [
+    {
+      "$oid": "61a90673e80dd4079400eb97"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "active": 1,
+  "createBy": "010102",
+  "village": {
+    "$oid": "61c337f69f7084546380b58d"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c336489f7084546380b3f1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c338249f7084546380b5dd"
+  },
+  "username": "01010204",
+  "password": "$2a$08$MGLkiZNX/n.zUBsSjRAhg.Vuc6OBg2xP/mOZgq3ZnlqSziEjz57Ki",
+  "roles": [
+    {
+      "$oid": "61a90673e80dd4079400eb97"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "active": 1,
+  "createBy": "010102",
+  "village": {
+    "$oid": "61c337fb9f7084546380b598"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c336489f7084546380b3f1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c338269f7084546380b5e6"
+  },
+  "username": "01010205",
+  "password": "$2a$08$UBGMJlhDCKoMdzOIB6zKMO.httodM2hShk6kuMzVHV26OpgwPP4wm",
+  "roles": [
+    {
+      "$oid": "61a90673e80dd4079400eb97"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "active": 1,
+  "createBy": "010102",
+  "village": {
+    "$oid": "61c338009f7084546380b5a3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c336489f7084546380b3f1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c338299f7084546380b5ef"
+  },
+  "username": "01010206",
+  "password": "$2a$08$ZXFBdWB8wGtlstkgDdxjJOn6ElhAU2S/epw1v9BNjLYhIkCOUih9O",
+  "roles": [
+    {
+      "$oid": "61a90673e80dd4079400eb97"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "active": 1,
+  "createBy": "010102",
+  "village": {
+    "$oid": "61c338059f7084546380b5ae"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c336489f7084546380b3f1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c3382b9f7084546380b5f8"
+  },
+  "username": "01010207",
+  "password": "$2a$08$DvwzMM5FbfHhLeur0Uh3cuekoOr/segRpPN3EysnpcYGflxDns0L2",
+  "roles": [
+    {
+      "$oid": "61a90673e80dd4079400eb97"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-02-01T00:00:00Z"
+  },
+  "active": 1,
+  "createBy": "010102",
+  "village": {
+    "$oid": "61c3380a9f7084546380b5b9"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c336489f7084546380b3f1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c599ca4567bc6fd520ab12"
+  },
+  "username": "40",
+  "password": "$2a$08$DPMjmTVvS.LyfmuAVX2C0.KQHE3R.W4Ft8DPMZapKl1wihliU.wzq",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeab"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-23T10:01:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-31T10:01:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "an",
+  "city": {
+    "$oid": "61c5989f4567bc6fd520ab03"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c59a5f4567bc6fd520ab21"
+  },
+  "username": "31",
+  "password": "$2a$08$ST1gHELaChftYbICT7yNee20JpsvIAAGIZbPdA1Va8pem.jT2prla",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeab"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-10T09:54:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-23T09:54:00Z"
+  },
+  "complete": 0,
+  "active": 0,
+  "createBy": "an",
+  "city": {
+    "$oid": "61c599f64567bc6fd520ab1c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c5ce9e0e479fb880acde07"
+  },
+  "username": "33",
+  "password": "$2a$08$wrTSsdiD.GrC/PtkAkCOT.X1.JCdI349BcPIQzXIKvnpttTHv5xrC",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeab"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-04T13:43:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-31T13:43:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "an",
+  "city": {
+    "$oid": "61c5cde30e479fb880acdddd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c7311f1c7487df6aaac2f5"
+  },
+  "username": "0802",
+  "password": "$2a$08$w.hZuR37xBvz9JVFs8HJmeEHbo3bT0NKo9jgfX7eYpdhFf4WLTXoC",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeac"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-02T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-12-02T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "08",
+  "district": {
+    "$oid": "61c73008316083a0f08bd737"
+  },
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c731271c7487df6aaac2fe"
+  },
+  "username": "0801",
+  "password": "$2a$08$Pn1NBxUv/fpVRP6ihJI.V.xjLhmw6y6Yd1tZANSY6qvMYLbD2znHi",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeac"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-02T00:00:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-12-02T00:00:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "08",
+  "district": {
+    "$oid": "61c72fee316083a0f08bd72e"
+  },
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c731761c7487df6aaac31a"
+  },
+  "username": "0803",
+  "password": "$2a$08$hXn.MAb6am2Zr4tK4jMED.2QGYAF.JEhxSKfeF.WoewfdwPum220K",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeac"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-17T14:57:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-01-05T14:57:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "08",
+  "district": {
+    "$oid": "61c731691c7487df6aaac312"
+  },
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c734c411ca0cbcf403a32f"
+  },
+  "username": "0804",
+  "password": "$2a$08$xDQ1vWaG1lJ1ZXFvITmPNusuTgbU7tK/rfraYG0QfqVJuYbzsvWyS",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeac"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-02T15:11:00Z"
+  },
+  "timeFinish": {
+    "$date": "2022-12-07T15:12:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "08",
+  "district": {
+    "$oid": "61c734ab11ca0cbcf403a327"
+  },
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c734e711ca0cbcf403a341"
+  },
+  "username": "0805",
+  "password": "$2a$08$UR1a.zd2rpBEStV9u0Vs9OaPyde348Mxq3ITAv27IdKJmYqJsq0Hm",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeac"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-09T15:12:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-31T15:12:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "08",
+  "district": {
+    "$oid": "61c734e211ca0cbcf403a339"
+  },
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c7351f11ca0cbcf403a353"
+  },
+  "username": "0806",
+  "password": "$2a$08$uoJi4gHTYeg5KzlwgWIaRO.zVCVlbpYsqEBqywPErKDsRzooiEmyO",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeac"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-10T15:13:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-31T15:13:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "08",
+  "district": {
+    "$oid": "61c7350311ca0cbcf403a34b"
+  },
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c7353a11ca0cbcf403a365"
+  },
+  "username": "0807",
+  "password": "$2a$08$b9Jb2VTnCHi2AhJNsmAszechwpjcgWc/MmBBqq2ShYD46ir2bufFW",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeac"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-02T15:13:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-31T15:13:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "08",
+  "district": {
+    "$oid": "61c7353711ca0cbcf403a35d"
+  },
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c7359211ca0cbcf403a377"
+  },
+  "username": "0808",
+  "password": "$2a$08$M1MsPOCXW61hSz2pbseF8Okbv/Y2wGVHw0zCdE6vl5xRIPgvQZ0Qm",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeac"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-03T15:15:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-31T15:15:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "08",
+  "district": {
+    "$oid": "61c7357011ca0cbcf403a36f"
+  },
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c735b211ca0cbcf403a389"
+  },
+  "username": "0809",
+  "password": "$2a$08$77nEAL5b5pbNZFPZz4b.iOuFMVuEgcr5KnON9uzlQC4dtEx72NHCq",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeac"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-02T15:15:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-31T15:15:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "08",
+  "district": {
+    "$oid": "61c7359b11ca0cbcf403a381"
+  },
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c738bacf390e97f6bea0f3"
+  },
+  "username": "080102",
+  "password": "$2a$08$fFXKKT1qQuiQTVAGkMmwPe4kPfd0FX/iQrja.dABm3UfriczQLvdG",
+  "roles": [
+    {
+      "$oid": "61a9063de80dd4079400eb96"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-10T15:28:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-31T15:28:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "0801",
+  "ward": {
+    "$oid": "61c738a0cf390e97f6bea0ea"
+  },
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c72fee316083a0f08bd72e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c7390dcf390e97f6bea164"
+  },
+  "username": "080101",
+  "password": "$2a$08$qPkDiwyscfHIhb/USyuERur6vkmz85LvWSzVnDMjUwJnhyDRyU3Au",
+  "roles": [
+    {
+      "$oid": "61a9063de80dd4079400eb96"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-04T15:30:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-31T15:30:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "0801",
+  "ward": {
+    "$oid": "61c7390bcf390e97f6bea15b"
+  },
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c72fee316083a0f08bd72e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c7393ecf390e97f6bea183"
+  },
+  "username": "080103",
+  "password": "$2a$08$fLaNG3z7CiLwcdezHTLfP.JzjWYsb0rhrDO9o0T3kX8JC9KfCtZnK",
+  "roles": [
+    {
+      "$oid": "61a9063de80dd4079400eb96"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-10T15:31:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-31T15:31:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "0801",
+  "ward": {
+    "$oid": "61c7392fcf390e97f6bea17a"
+  },
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c72fee316083a0f08bd72e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c7399acf390e97f6bea1a7"
+  },
+  "username": "080104",
+  "password": "$2a$08$pz/JQuooZnb1GCusixZ03.tOu/cWgZ4mMZzkHb5l6pAu/GEJsZKUy",
+  "roles": [
+    {
+      "$oid": "61a9063de80dd4079400eb96"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-03T15:32:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-31T15:32:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "0801",
+  "ward": {
+    "$oid": "61c7398dcf390e97f6bea19e"
+  },
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c72fee316083a0f08bd72e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c73cf2e831acc35fc94170"
+  },
+  "username": "080201",
+  "password": "$2a$08$ewWdWcHK/rIcd8Z1bKS8Au1BuuA7M/3sSUbYhAdwl9tyW.hHzJO0W",
+  "roles": [
+    {
+      "$oid": "61a9063de80dd4079400eb96"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-09T15:46:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-31T15:46:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "0802",
+  "ward": {
+    "$oid": "61c73c97e831acc35fc94164"
+  },
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c73008316083a0f08bd737"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c73d1ee831acc35fc9418a"
+  },
+  "username": "080202",
+  "password": "$2a$08$bJNs6FLbsMCx/NAlITngLu2aMaYdfdJN/8icMOFPHA.iVIXxszcCC",
+  "roles": [
+    {
+      "$oid": "61a9063de80dd4079400eb96"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-17T15:47:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-31T15:47:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "0802",
+  "ward": {
+    "$oid": "61c73d11e831acc35fc94181"
+  },
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c73008316083a0f08bd737"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c73d40e831acc35fc9419d"
+  },
+  "username": "080203",
+  "password": "$2a$08$pY1.DrZCJmaW8Yq9K8kmIeJDZktna8C4ZWZRgsr.15YD3gSRGEGJG",
+  "roles": [
+    {
+      "$oid": "61a9063de80dd4079400eb96"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-11T15:48:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-31T15:48:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "0802",
+  "ward": {
+    "$oid": "61c73d3de831acc35fc94194"
+  },
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c73008316083a0f08bd737"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c73d5fe831acc35fc941b0"
+  },
+  "username": "080204",
+  "password": "$2a$08$uBv8Vrd/XCIVLxqQUumTweUrc4OeVn2qBlpTRoaFTktyTNoWhuGPy",
+  "roles": [
+    {
+      "$oid": "61a9063de80dd4079400eb96"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-11T15:48:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-31T15:48:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "0802",
+  "ward": {
+    "$oid": "61c73d5ce831acc35fc941a7"
+  },
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c73008316083a0f08bd737"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c73d82e831acc35fc941c3"
+  },
+  "username": "080205",
+  "password": "$2a$08$3CZptHIwBU4zPNA0MTTNzedHvwQmAc57O314IvgrQgq/uxI1VN/s.",
+  "roles": [
+    {
+      "$oid": "61a9063de80dd4079400eb96"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-10T15:49:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-08T15:49:00Z"
+  },
+  "complete": 0,
+  "active": 0,
+  "createBy": "0802",
+  "ward": {
+    "$oid": "61c73d80e831acc35fc941ba"
+  },
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c73008316083a0f08bd737"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c73ddee831acc35fc9422b"
+  },
+  "username": "080301",
+  "password": "$2a$08$/2LnIvs4O.MRVp4H2/Q8feixhC.NyIdEfdA7I4qw4xWiWOnwqNwO.",
+  "roles": [
+    {
+      "$oid": "61a9063de80dd4079400eb96"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-11T15:50:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-31T15:50:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "0803",
+  "ward": {
+    "$oid": "61c73ddbe831acc35fc94222"
+  },
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c731691c7487df6aaac312"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c73e08e831acc35fc9423e"
+  },
+  "username": "080302",
+  "password": "$2a$08$efA599O8nHyrUGL8XKNRLuyW2eQZQhWokyBP8BqQy9X78NNnlZMte",
+  "roles": [
+    {
+      "$oid": "61a9063de80dd4079400eb96"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-03T15:51:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-31T15:51:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "0803",
+  "ward": {
+    "$oid": "61c73e05e831acc35fc94235"
+  },
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c731691c7487df6aaac312"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c73e28e831acc35fc94251"
+  },
+  "username": "080303",
+  "password": "$2a$08$C58i1AW/hGTvGLyrXSKn7O00uI4eR4f17J9uvr.seVC1Dv1vW3ZyO",
+  "roles": [
+    {
+      "$oid": "61a9063de80dd4079400eb96"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-10T15:52:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-31T15:52:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "0803",
+  "ward": {
+    "$oid": "61c73e25e831acc35fc94248"
+  },
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c731691c7487df6aaac312"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c73e45e831acc35fc94264"
+  },
+  "username": "080304",
+  "password": "$2a$08$c2KtFprZQpqRN8q.ll6C/uvtsufJZ3pI11BC9devOY/feaHzINtTa",
+  "roles": [
+    {
+      "$oid": "61a9063de80dd4079400eb96"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-03T15:52:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-31T15:52:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "0803",
+  "ward": {
+    "$oid": "61c73e44e831acc35fc9425b"
+  },
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c731691c7487df6aaac312"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c73e63e831acc35fc94277"
+  },
+  "username": "080305",
+  "password": "$2a$08$8kFxa2V/Q1nFyBY0qKZ6h.6AtfzUS4QS2W800aTPSdFNcjfVIl0w6",
+  "roles": [
+    {
+      "$oid": "61a9063de80dd4079400eb96"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T15:53:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-31T15:53:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "0803",
+  "ward": {
+    "$oid": "61c73e61e831acc35fc9426e"
+  },
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c731691c7487df6aaac312"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c73f7a77a3f9c93cfbb4a3"
+  },
+  "username": "080402",
+  "password": "$2a$08$viyMj9/TxQfDop7NczAWK.0wtXQQlC92q0prcKlprlL9s/eY8IPXO",
+  "roles": [
+    {
+      "$oid": "61a9063de80dd4079400eb96"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-10T15:57:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-31T15:57:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "0804",
+  "ward": {
+    "$oid": "61c73f7877a3f9c93cfbb49a"
+  },
+  "city": {
+    "$oid": "61c32f58d3652be5e1e4eb39"
+  },
+  "district": {
+    "$oid": "61c734ab11ca0cbcf403a327"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c7426177a3f9c93cfbb69e"
+  },
+  "username": "20",
+  "password": "$2a$08$77Qc50ybcPRX7Ga.dhmLH.MdyiNpssAjfg5Wn5vuj4Jr672Y7HtKS",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeab"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-10T16:10:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-31T16:10:00Z"
+  },
+  "complete": 0,
+  "active": 1,
+  "createBy": "an",
+  "city": {
+    "$oid": "61c7424a77a3f9c93cfbb699"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c75d24d2cac023c26902bc"
+  },
+  "username": "01010103",
+  "password": "$2a$08$D31axjyldQv50Xwc5EPtdO36f00kSMb9IXhAljpGB30pKd.J5jCd2",
+  "roles": [
+    {
+      "$oid": "61a90673e80dd4079400eb97"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T18:04:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-30T18:04:00Z"
+  },
+  "active": 1,
+  "createBy": "010101",
+  "village": {
+    "$oid": "61c75cd0d2cac023c26902b3"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3362a9f7084546380b3e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c766cd5cd7a9ac47ea79c5"
+  },
+  "username": "01010301",
+  "password": "$2a$08$kPd2SWaxGdZDO0pTqLbEeu7OpgpwOvMs/F3VZQXEQOzV7xOFqEJxy",
+  "roles": [
+    {
+      "$oid": "61a90673e80dd4079400eb97"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-03T18:45:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-30T18:45:00Z"
+  },
+  "active": 1,
+  "createBy": "010103",
+  "village": {
+    "$oid": "61c766b55cd7a9ac47ea79bc"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3365f9f7084546380b400"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c766f65cd7a9ac47ea79d9"
+  },
+  "username": "01010302",
+  "password": "$2a$08$9QUdwIuVw9wAV2f/sYRsIuLcTRvGCmTkjPpLPdeTjV0phr7ueo4fe",
+  "roles": [
+    {
+      "$oid": "61a90673e80dd4079400eb97"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-18T18:45:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-30T18:45:00Z"
+  },
+  "active": 1,
+  "createBy": "010103",
+  "village": {
+    "$oid": "61c766f35cd7a9ac47ea79d0"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3365f9f7084546380b400"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c767665cd7a9ac47ea79ed"
+  },
+  "username": "01010304",
+  "password": "$2a$08$cyJ3XZc1X5kJSOFRZk0SKO9COXucL6uSkEnSaqlpxFkOtWJwtQ1ky",
+  "roles": [
+    {
+      "$oid": "61a90673e80dd4079400eb97"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-04T18:48:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-30T18:48:00Z"
+  },
+  "active": 1,
+  "createBy": "010103",
+  "village": {
+    "$oid": "61c767555cd7a9ac47ea79e4"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3365f9f7084546380b400"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c768dd5cd7a9ac47ea7a7a"
+  },
+  "username": "01010303",
+  "password": "$2a$08$vtKklj0jwEuxxKbY8lGuBOvlOR1eznWkEt8TWtaOoso1rMwFKXSwi",
+  "roles": [
+    {
+      "$oid": "61a90673e80dd4079400eb97"
+    }
+  ],
+  "timeStart": {
+    "$date": "2021-12-01T18:54:00Z"
+  },
+  "timeFinish": {
+    "$date": "2021-12-30T18:54:00Z"
+  },
+  "active": 1,
+  "createBy": "010103",
+  "village": {
+    "$oid": "61c768c65cd7a9ac47ea7a71"
+  },
+  "city": {
+    "$oid": "61c32f03d3652be5e1e4eb08"
+  },
+  "district": {
+    "$oid": "61c330ccd3652be5e1e4ec07"
+  },
+  "ward": {
+    "$oid": "61c3365f9f7084546380b400"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c8207729630ede0fc6b860"
+  },
+  "username": "admin",
+  "password": "$2a$08$RgMCy4VMrOeHbEA5Z8Zu5u/Xks1s6SDL2wp9jVl2Jy7OLes47lmD2",
+  "roles": [
+    {
+      "$oid": "61a886d3213e543ca87cfeaa"
+    }
+  ],
+  "active": 1,
+  "__v": 1
+}]
